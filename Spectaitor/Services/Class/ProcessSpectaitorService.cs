@@ -81,7 +81,8 @@ namespace Spectaitor.Services.Class
         "conhost",
         "spoolsv",
         "SearchIndexer",
-        "wininit"
+        "wininit",
+        "Spectaitor"
                 };
 
             foreach (string criticalProcess in criticalProcesses)
